@@ -1,6 +1,7 @@
 This script will convert an image file into a map file for RPG Maker MV.
 
 Input format: jpg, png, bmp and other common image formats
+
 Output format: json
 
 Usage: Please execute this script in Python environment, you will be prompted for the inputfile name. After selected, a json file with the same file name will be created.
