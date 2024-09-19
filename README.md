@@ -8,4 +8,4 @@ Usage: Please execute this script in Python environment, you will be prompted fo
 
 Start RPG Maker MV, create a new map, a map file will be created in data folder, the format is something like Map001.json. Please change or delete the json file you just created, and copy and rename the json file converted from this script into this folder and change the file name to the one you just deleted, such as Map001.json.
 
-Open RPG Maker MV and load your project, you will find your map is replaced by the new map, while the terrain may need to be adjusted. Please change it accordingly.
+Open RPG Maker MV and load your project, you will find your map is replaced by the new map, while the terrain and features may need to be adjusted. Please change it accordingly.
